@@ -6,9 +6,9 @@ The default branch contains this project status README. The CATCH 2.0 hardening 
 
 The verified patch bundle is available as a downloadable artifact in the associated ChatGPT session. SHA-256:
 
-b71ea8b83fc758a003fd7a0d3ab6102dc8a23dd07ee0a27a1710d4cb9be5c877
+57723af74e70e02c166530e3318289f1ce31e4682a9c433ba99005344e8e80ad
 
-The bundle contains all seven patch files, updated regression tests, the security audit, limitations, offline-suite evidence, and the V-Agent verifier-contract proposal. It is not the full CATCH source archive.
+The bundle contains all seven patch files, updated regression tests, the security audit, limitations, offline-suite evidence, the V-Agent verifier-contract proposal, and the gated GPU run manifest. It is not the full CATCH source archive.
 
 ## Verification scope
 
